@@ -6,6 +6,7 @@
 **情报来源：https://www.kdocs.cn/l/coHIXmgRe2u4**
 
 工具原理：
+
 1、根据网上大佬们提供的情报，查找对应目录下是否存在情报中的恶意文件，以及对比文件hash。
 
 <img width="1920" height="879" alt="image" src="https://github.com/user-attachments/assets/deab4821-6004-49c8-bd61-4281cd567063" />
@@ -14,6 +15,7 @@
 
 <img width="1920" height="879" alt="image" src="https://github.com/user-attachments/assets/993d6116-a3ab-4902-a714-a6356b4a83b9" />
 
+---
 运行结果展示（懒得找银狐病毒来测试，有bug，反馈。）
 
 <img width="454" height="544" alt="image" src="https://github.com/user-attachments/assets/4a1f5649-56f7-4168-b756-d76e64641582" />
